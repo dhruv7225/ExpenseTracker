@@ -1,4 +1,4 @@
-<img width="1710" alt="Screenshot 2025-07-06 at 11 22 56 AM" src="https://github.com/user-attachments/assets/70b22066-79ef-4fa2-861e-89526f6f1cb8" /><img width="1710" alt="Screenshot 2025-07-06 at 11 22 56 AM" src="https://github.com/user-attachments/assets/95f265a3-533d-4801-8c1b-65f2ffc8fec5" /># 💰 Expense Tracker Web Application
+# 💰 Expense Tracker Web Application
 
 A full-featured **Expense Management System** built using **Java, JSP, and MySQL**, designed to help users track, analyze, and manage their income and expenses effectively. The application supports data visualization, report generation, user goal setting, and more.
 
